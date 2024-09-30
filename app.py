@@ -1,4 +1,11 @@
 from carro import carro
 
-Porshe = carro("Porshe","911","Preto")
+porshe = carro("Porshe","Porshe","Preto","Gasolina")
 
+porshe.ligar()
+porshe.acelerar()
+porshe.acelerar()
+porshe.acelerar()
+porshe.acelerar()
+porshe.acelerar()
+porshe.acelerar()
